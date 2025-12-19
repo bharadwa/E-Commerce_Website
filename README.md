@@ -7,10 +7,10 @@ Micro Service Based Application
 
 [UserService](https://github.com/bharadwa/user-service)
 
+[OrderService](https://github.com/bharadwa/OrderService)
+
 [EmailService](https://github.com/bharadwa/EmailService)
 
 [APIGateway](https://github.com/bharadwa/APIGateway)
 
 [ServiceDiscovery](https://github.com/bharadwa/discovery-service)
-
-[BookingApplication](https://github.com/bharadwa/boomyshow)
