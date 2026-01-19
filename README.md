@@ -15,8 +15,9 @@ Micro Service Based Application
 
 [ServiceDiscovery](https://github.com/bharadwa/discovery-service)
 
-Deployed Product Service Application Using AWS ElasticBeanStalk with ALB and enabling Auto Scaling Based on Load
-
+</br>
+Configured AWS Elastic Beanstalk environment for a Product Service application with Application Load Balancer and load-based auto-scaling to support increased traffic and ensure reliability.
+</br>
 <img width="950" height="446" alt="image" src="https://github.com/user-attachments/assets/0cd764db-bd65-4438-a996-f933fb3e67c3" />
 
 </br>
