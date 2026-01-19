@@ -33,10 +33,9 @@ Configured AWS Elastic Beanstalk environment for a Product Service application w
 Testing Via Load Balancer </br>
 <img width="634" height="431" alt="image" src="https://github.com/user-attachments/assets/58c01973-51a3-4ac6-b945-513d327439b6" />
 
-
-
 </br>
 Testing Via APi Nodes 
+</br>
 <img width="633" height="415" alt="image" src="https://github.com/user-attachments/assets/8acd54d5-8b32-4acd-a379-8af1a93c5e43" />
 
 <img width="631" height="430" alt="image" src="https://github.com/user-attachments/assets/49e521b9-751b-44fd-b46b-b9dfc3c21f0b" />
