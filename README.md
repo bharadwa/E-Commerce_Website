@@ -15,7 +15,7 @@ Micro Service Based Application
 
 [ServiceDiscovery](https://github.com/bharadwa/discovery-service)
 
-Deployed Product Service Application Using ElasticBeanStalk
+Deployed Product Service Application Using AWS ElasticBeanStalk with ALB and enabling Auto Scaling Based on Load
 
 <img width="950" height="446" alt="image" src="https://github.com/user-attachments/assets/0cd764db-bd65-4438-a996-f933fb3e67c3" />
 
@@ -31,7 +31,6 @@ Testing Via Load Balancer
 <img width="634" height="431" alt="image" src="https://github.com/user-attachments/assets/58c01973-51a3-4ac6-b945-513d327439b6" />
 
 Testing Via API Nodes 
-
 <img width="633" height="415" alt="image" src="https://github.com/user-attachments/assets/8acd54d5-8b32-4acd-a379-8af1a93c5e43" />
 
 <img width="631" height="430" alt="image" src="https://github.com/user-attachments/assets/49e521b9-751b-44fd-b46b-b9dfc3c21f0b" />
